@@ -1,7 +1,7 @@
 /*
  * ----------------------------------------------------------------
  * --- WARNING: THIS FILE IS GENERATED AND WILL BE OVERWRITTEN! ---
- * --- Generated at 2 de jul. de 2024 19:02:00                  ---
+ * --- Generated at 9 de jul. de 2024 12:46:53                  ---
  * ----------------------------------------------------------------
  */
 package com.tcom.core.constants;
